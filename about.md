@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Research Question and Introduction
 ---
 
 <p class="message">
