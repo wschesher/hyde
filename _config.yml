@@ -1,20 +1,20 @@
 # Dependencies
 markdown:         kramdown
-highlighter:      pygments
+highlighter:      Rouge
 
 # Permalinks
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
+title:            Our Research, Ourselves
+tagline:          'A duoethnography on mentoring and researcher identity'
 description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+url:
 baseurl:          /templatepractice
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Will Chesher'
+  url:
 
 
 
